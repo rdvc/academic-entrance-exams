@@ -4,8 +4,6 @@
 -   Admin can create test, manage tests and students.
 -   Students can apply for the test and view results and answer sheets.
 
-# Testing
-
 Check the following localhost project.
 
 ```
